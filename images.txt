@@ -1,3 +1,7 @@
+maven
+node
+mysql
+jenkins
 redis
 nginx
 #支持私库
